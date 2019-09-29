@@ -45,7 +45,7 @@ class CurrenciesController extends Controller
                 'english_name'      => (string)$this->Translit($value->Name),
                 'alphabetic_code'   => (string)$value->CharCode,
                 'digit_code'        => (string)$value->NumCode,
-                'rate'              => floatval( str_replace(',', '.', $value->Value) )
+                'rate'              => ( floatval( str_replace(',', '.', $value->Value ) ) / floatval( str_replace(',', '.', $value->Nominal ) ) )
             ];
         }
     }
