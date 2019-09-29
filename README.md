@@ -1,4 +1,4 @@
-#Service on Laravel / Lumen, providing information on exchange rates
+<h1>Service on Laravel / Lumen, providing information on exchange rates</h1>
 <p><b>Сервис реализует следующие методы:</b></p>
 <p>* GET /currencies — возвращает список курсов валют</p>
 <p>* GET /currencies/{id} — возвращает курс валюты для переданного идентификатора</p>
