@@ -7,7 +7,6 @@
 <p><b>Artisan commands:</b></p>
 <p>php artisan <b>update_data_currencies</b></p>
 </br>
-<p>Demo: <a href="http://currencies-ll.yuri-pupynin.ru/currencies">Link</a></p>
 </br>
 <h2>Русский:</h2>
 <p><b>Сервис реализует следующие методы:</b></p>
@@ -17,4 +16,3 @@
 <p><b>Artisan команды:</b></p>
 <p>php artisan <b>update_data_currencies</b></p>
 </br>
-<p>Демо: <a href="http://currencies-ll.yuri-pupynin.ru/currencies">Ссылка</a></p>
